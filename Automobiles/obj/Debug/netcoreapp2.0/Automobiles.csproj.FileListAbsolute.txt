@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/bin/Debug/netcoreapp2.0/Automobiles.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/bin/Debug/netcoreapp2.0/Automobiles.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/bin/Debug/netcoreapp2.0/Automobiles.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/bin/Debug/netcoreapp2.0/Automobiles.dll
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/bin/Debug/netcoreapp2.0/Automobiles.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/obj/Debug/netcoreapp2.0/Automobiles.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/obj/Debug/netcoreapp2.0/Automobiles.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/obj/Debug/netcoreapp2.0/Automobiles.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/obj/Debug/netcoreapp2.0/Automobiles.dll
+/Users/vknez/Documents/Programming/DesignPatterns/NullObject/Automobiles/obj/Debug/netcoreapp2.0/Automobiles.pdb
